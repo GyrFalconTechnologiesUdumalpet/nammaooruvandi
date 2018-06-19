@@ -29,21 +29,9 @@ body{
 .md-form  label{
 	color: rgb(188,188,188) !important; font-weight: bold; 
 }
-.loginbutton{
+.register{
 	margin-top: 30px; text-align: center;
 }
 button{
 	background: #2a3746; padding: 10px 80px 10px 80px; border-radius: 10px !important; border: 1px solid #fff; font-weight: bold; color: #fff; font-size: 12px;
-}
-.btext{
-	margin-top: 30px; font-size: 12px; font-weight: bold; color: #000; text-align: center;
-}
-.bottomlogo{
-	margin-top: 30px; margin-left: 120px;
-}
-.frgtpwrd  a{
-	color: #000; font-weight: bold; text-decoration: none; font-size: 12px; width: 50%; float: left; margin: 30px 0;
-}
-.register a{
-	color: #000; font-weight: bold; text-decoration: none; font-size: 12px; width: 50%; float: left; margin: 30px 0; 
 }
