@@ -1,0 +1,37 @@
+body,html{ margin: 0; padding: 0;}
+body{
+	background-color: #e7e7e7; 
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	background-position: center;
+}
+.body{
+	width: 100%; 
+}
+.heading{
+	text-align: center; font-size: 18px; font-weight: bold; margin-top: 30px;
+}
+.logo{
+	margin-left: 125px;
+}
+.Signin{
+	margin-top: 30px; font-size: 18px; font-weight: bold;
+}
+.feild{
+	width: 30%; margin: 0 auto; margin-top: 30px !important; 
+}
+.md-form input[type=text]{
+	border-bottom: 1px solid rgb(188,188,188) !important; 
+}
+.md-form  input[type=password]{
+	color: #000 !important; font-weight: bold;
+}
+.md-form  label{
+	color: rgb(188,188,188) !important; font-weight: bold; 
+}
+.register{
+	margin-top: 30px; text-align: center;
+}
+button{
+	background: #2a3746; padding: 10px 80px 10px 80px; border-radius: 10px !important; border: 1px solid #fff; font-weight: bold; color: #fff; font-size: 12px;
+}
