@@ -9,44 +9,41 @@ body{
 	width: 100%; 
 }
 .heading{
-	text-align: center; font-size: 18px; font-weight: bold; margin-top: 20px;
+	text-align: center; font-size: 18px; font-weight: bold; margin-top: 30px;
 }
 .logo{
-	margin-left: 250px;
+	margin-left: 125px;
 }
 .Signin{
-	margin-top: 30px; margin-left: 195px; font-size: 18px; font-weight: bold;
+	margin-top: 30px; font-size: 18px; font-weight: bold;
 }
 .feild{
-	width: 30%; margin: 0 auto; margin-top: 40px !important; 
+	width: 30%; margin: 0 auto; margin-top: 30px !important; 
 }
 .md-form input[type=text]{
 	border-bottom: 1px solid rgb(188,188,188) !important; 
 }
+.md-form  input[type=password]{
+	color: #000 !important; font-weight: bold;
+}
 .md-form  label{
 	color: rgb(188,188,188) !important; font-weight: bold; 
 }
-.md-form  label.active{
-	color: #2a3746
-}
 .loginbutton{
-	margin-top: 24px; 
+	margin-top: 30px; text-align: center;
 }
 button{
 	background: #2a3746; padding: 10px 80px 10px 80px; border-radius: 10px !important; border: 1px solid #fff; font-weight: bold; color: #fff; font-size: 12px;
 }
 .btext{
-	margin-top: 10px; margin-left: 50px; font-size: 12px; font-weight: bold; color: #000; 
+	margin-top: 30px; font-size: 12px; font-weight: bold; color: #000; text-align: center;
 }
 .bottomlogo{
-	margin-left: 35px; margin-top: 20px;
-}
-.link{
-	width: 100%;
+	margin-top: 30px; margin-left: 120px;
 }
 .frgtpwrd  a{
-	color: #000; font-weight: bold; text-decoration: none; font-size: 12px; width: 50%; float: left; margin-left: 70px;
+	color: #000; font-weight: bold; text-decoration: none; font-size: 12px; width: 50%; float: left; margin: 30px 0;
 }
 .register a{
-	color: #000; font-weight: bold; text-decoration: none; font-size: 12px; width: 50%; margin-left: 70px;
+	color: #000; font-weight: bold; text-decoration: none; font-size: 12px; width: 50%; float: left; margin: 30px 0; 
 }
