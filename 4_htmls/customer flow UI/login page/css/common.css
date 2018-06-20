@@ -6,7 +6,7 @@ body{
 	background-position: center;
 }
 .body{
-	width: 758px; margin: 0 auto;
+	width: 758px; margin: 0 auto; 
 }
 .heading{
 	text-align: center; font-size: 18px; font-weight: bold; margin-top: 15px;
@@ -26,9 +26,24 @@ body{
 .md-form  label{
 	color: rgb(188,188,188) !important; 
 }
-.register{
+.loginbutton{
 	margin-top: 15px; text-align: center;
 }
 button{
 	background: #2a3746; padding: 10px 80px 10px 80px; border-radius: 10px !important; border: 1px solid #fff; font-weight: bold; color: #e7e7e7; font-size: 12px;
+}
+.btext{
+	margin-top: 15px; font-size: 12px; font-weight: bold; color: #000; text-align: center;
+}
+.bottomlogopart{
+	text-align: center;
+}
+.bottomlogo{
+	margin-top: 15px;
+}
+.frgtpwrd  a{
+	color: #000; font-weight: bold; text-decoration: none; font-size: 12px; float: left; margin: 15px 0;
+}
+.register a{
+	color: #000; font-weight: bold; text-decoration: none; font-size: 12px; float: right; margin: 15px 0;
 }
