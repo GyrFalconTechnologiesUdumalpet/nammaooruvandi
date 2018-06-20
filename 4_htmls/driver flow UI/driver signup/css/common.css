@@ -15,12 +15,11 @@ body{
 .heading{
 	margin-top: 30px; font-size: 18px; font-weight: bold;
 }
-.img1{
-	margin-left: 650px; 
+.logo{
+	text-align: center;
 }
-
 .md-form label{
-	color: rgb(188,188,188); font-weight: bold;
+	color: rgb(188,188,188); 
 }
 .md-form label.active{
 	color:rgb(188,188,188) !important;
