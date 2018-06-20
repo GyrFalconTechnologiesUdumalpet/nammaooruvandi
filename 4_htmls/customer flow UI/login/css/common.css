@@ -11,8 +11,11 @@ body{
 .heading{
 	text-align: center; font-size: 18px; font-weight: bold; margin-top: 30px;
 }
+.logopart{
+	text-align: center;
+}
 .logo{
-	margin-left: 163px;
+	
 }
 .Signin{
 	margin-top: 30px; font-size: 18px; font-weight: bold;
@@ -27,7 +30,7 @@ body{
 	color: #000 !important; font-weight: bold;
 }
 .md-form  label{
-	color: rgb(188,188,188) !important; font-weight: bold; 
+	color: rgb(188,188,188) !important; 
 }
 .loginbutton{
 	margin-top: 30px; text-align: center;
@@ -38,12 +41,15 @@ button{
 .btext{
 	margin-top: 30px; font-size: 12px; font-weight: bold; color: #000; text-align: center;
 }
+.bottomlogopart{
+	text-align: center;
+}
 .bottomlogo{
-	margin-top: 30px; margin-left: 120px;
+	margin-top: 30px;
 }
 .frgtpwrd  a{
-	color: #000; font-weight: bold; text-decoration: none; font-size: 12px; width: 50%; float: left; margin: 30px 0;
+	color: #000; font-weight: bold; text-decoration: none; font-size: 12px; float: left; margin: 30px 0;
 }
 .register a{
-	color: #000; font-weight: bold; text-decoration: none; font-size: 12px; width: 50%; float: left; margin-top: 30px; padding-left: 100px;
+	color: #000; font-weight: bold; text-decoration: none; font-size: 12px; float: right; margin-top: 30px; padding-left: 100px;
 }
