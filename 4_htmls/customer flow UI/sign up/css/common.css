@@ -11,8 +11,8 @@ body{
 .heading{
 	text-align: center; font-size: 18px; font-weight: bold; margin-top: 30px;
 }
-.logo{
-	margin-left: 163px;
+.logopart{
+	text-align: center;
 }
 .Signin{
 	margin-top: 30px; font-size: 18px; font-weight: bold;
@@ -27,7 +27,7 @@ body{
 	color: #000 !important; font-weight: bold;
 }
 .md-form  label{
-	color: rgb(188,188,188) !important; font-weight: bold; 
+	color: rgb(188,188,188) !important; 
 }
 .register{
 	margin-top: 30px; text-align: center;
